@@ -1,9 +1,5 @@
 theme: jekyll-theme-cayman
 title: Coreldraw YG插件
 SEOTitle: YG插件| YG Blog
-header-img: img/home-bg.jpg
-email: 2540079345@qq.com
 description: "CDR YG插件"
 keyword: "YG, CDR, VBA, CPG, Delphi, CDR插件"
-url: "https://ygcnp.taobao.com"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog
