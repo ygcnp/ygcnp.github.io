@@ -1,27 +1,10 @@
 **YG插件唯一淘宝地址:[淘宝店铺](https://ygcnp.taobao.com/) `https://ygcnp.taobao.com`**
+### YG插件工具条
 
 ![加载中请稍后](https://gdp.alicdn.com/imgextra/i2/410527756/O1CN014Fmzhv27AIMfDH77r_!!410527756.jpg "YG插件工具条")
 
-### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ### Jekyll Themes
 
