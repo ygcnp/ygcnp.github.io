@@ -1,6 +1,5 @@
 ## 欢迎来到CDR YG插件公众号
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+YG插件唯一购买地址:[淘宝店铺](https://ygcnp.taobao.com/)
 
 ### Markdown
 
