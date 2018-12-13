@@ -1,5 +1,4 @@
-### 欢迎来到 YG插件 小站
-YG插件唯一淘宝购买地址:[淘宝店铺](https://ygcnp.taobao.com/) `https://ygcnp.taobao.com`
+**YG插件唯一淘宝购买地址:[淘宝店铺](https://ygcnp.taobao.com/) `https://ygcnp.taobao.com`**
 
 ### Markdown
 
