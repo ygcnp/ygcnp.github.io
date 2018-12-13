@@ -33,7 +33,7 @@
 + 20、批量数据增加了N序拼版
 ``` 
 # `功能演示`
-![加载中请稍后](https://github.com/ygcnp/ygcnp.github.io/blob/master/A1.gif "YG插件批量数据演示")
+![加载中请稍后](https://github.com/ygcnp/ygcnp.github.io/raw/master/A1.gif "YG插件批量数据演示")
 
 ## QQ:2540079345
 
