@@ -1,5 +1,5 @@
 ## 欢迎来到CDR YG插件公众号
-YG插件唯一购买地址:[淘宝店铺](https://ygcnp.taobao.com/)
+YG插件唯一淘宝购买地址:[淘宝店铺](https://ygcnp.taobao.com/) https://ygcnp.taobao.com
 
 ### Markdown
 
