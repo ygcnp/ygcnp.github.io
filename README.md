@@ -2,7 +2,7 @@
 
 ## `YG插件工具条`
 
-![加载中请稍后](https://gdp.alicdn.com/imgextra/i2/410527756/O1CN014Fmzhv27AIMfDH77r_!!410527756.jpg "YG插件工具条")
+![加载中请稍后](https://github.com/ygcnp/ygcnp.github.io/raw/master/A.jpg "YG插件工具条")
 
 # `更新功能`
 ```diff
