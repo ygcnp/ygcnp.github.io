@@ -1,6 +1,9 @@
 **YG插件唯一淘宝地址:** [淘宝店铺](https://ygcnp.taobao.com/)
 ## `YG插件工具条`
 ![加载中请稍后](https://github.com/ygcnp/ygcnp.github.io/raw/master/A.jpg "YG插件工具条")
+
+![加载中请稍后](https://github.com/ygcnp/ygcnp.github.io/raw/master/016.jpg "统一尺寸演示")
+![加载中请稍后](https://github.com/ygcnp/ygcnp.github.io/raw/master/016.gif "统一尺寸演示")
 # `基础功能———— 批量数据`
 ![加载中请稍后](https://github.com/ygcnp/ygcnp.github.io/raw/master/A-1.gif "YG插件批量数据演示")
 # `订制功能———— 一键条幅`
