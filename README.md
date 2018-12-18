@@ -1,6 +1,6 @@
 **YG插件唯一淘宝地址:** [淘宝店铺](https://ygcnp.taobao.com/)
 # `YG插件排错`
-![加载中请稍后](https://github.com/ygcnp/ygcnp.github.io/raw/master/A.jpg "YG插件工具条")
+![加载中请稍后](https://github.com/ygcnp/ygcnp.github.io/raw/master/err1.png "YG损坏提示")
 ## `YG插件工具条`
 ![加载中请稍后](https://github.com/ygcnp/ygcnp.github.io/raw/master/A.jpg "YG插件工具条")
 
